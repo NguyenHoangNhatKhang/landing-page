@@ -1,0 +1,20 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+body {
+  background-color: rgb(19, 50, 79);
+  text-align: center;
+  color: white;
+  font-family: monospace;
+}
+
+main {
+  border: 40px solid rgb(34, 204, 195);
+  padding: 60px;
+}
+
+div h3 {
+  margin-top: 50px;
+}
